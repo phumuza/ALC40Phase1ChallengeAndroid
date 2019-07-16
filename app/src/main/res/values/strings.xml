@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="alc_welcome">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="track_android">Track: Android</string>
+    <string name="country">Country: South Africa</string>
+    <string name="email">Email: radzilanipv@gmail.com</string>
+    <string name="number">Phone Number: +27761156108</string>
+    <string name="slack">Slack Username: Phumudzo Vincent Radzilani</string>
+    <string name="name_id">Phumudzo Vincent Radzilani</string>
+</resources>
